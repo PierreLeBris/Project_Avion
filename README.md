@@ -5,6 +5,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 In the project directory, you can run:
 
 ### `npm install react`
+### `npm install deck.gl`
+### `npm install react-map-gl`
+### `npm install d3`
 
 ### `npm start`
 
